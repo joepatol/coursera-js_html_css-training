@@ -1,0 +1,37 @@
+h1{
+  font-weight: bold;
+  size: inherit;
+  color: black;
+}
+
+#nav-list{
+  font-family: serif;
+  font-style: italic;
+  text-align: center;
+  color: black;
+  outline-color: black;
+  background-color: lightgray;
+}
+
+#header-nav{
+  background-color: gray;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand{
+  height: inherit;
+}
+
+.navbar-default .navbar-toggle .icon-bar{
+  background-color: black;
+}
+
+h2{
+  font-weight: bold;
+}
+
+#section{
+  height: 1000px;
+  background-color: gray;
+}
